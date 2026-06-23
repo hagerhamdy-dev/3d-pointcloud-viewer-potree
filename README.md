@@ -65,4 +65,4 @@ Built on top of [Potree](https://github.com/potree/potree) by Markus Schütz and
 ## 👤 Author
 
 **Hager Hamdy** — Web GIS Developer
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/hager-hamdy-dev) · [GitHub](https://github.com/hagerhamdy-dev)
