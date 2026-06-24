@@ -58,7 +58,7 @@
 			viewer.toggleSidebar();
 		});
 		
-		Potree.loadPointCloud("pointclouds/auckland/metadata.json", "auckland", e => {
+		Potree.loadPointCloud("./pointclouds/auckland/metadata.json", "auckland", e => {
 			let scene = viewer.scene;
 			let pointcloud = e.pointcloud;
 			
